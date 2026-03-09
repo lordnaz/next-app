@@ -18,7 +18,7 @@ export default function Home() {
             A
           </span>
           <span className="text-sm font-semibold tracking-tight">
-            Our App
+            Lord Naz
             <span className="ml-2 rounded-full border px-2 py-0.5 text-[11px] text-muted-foreground">
               v1
             </span>
@@ -65,7 +65,7 @@ export default function Home() {
           </div>
 
           <h1 className="text-balance text-4xl font-semibold tracking-tight md:text-6xl">
-            Welcome to <span className="bg-gradient-to-r from-indigo-600 to-sky-500 bg-clip-text text-transparent">Our App</span>
+            Welcome to <span className="bg-gradient-to-r from-indigo-600 to-sky-500 bg-clip-text text-transparent">Lord Naz</span>
           </h1>
 
           <p className="mt-5 text-pretty text-base text-muted-foreground md:text-lg">
@@ -201,7 +201,7 @@ export default function Home() {
       <footer className="relative z-10 border-t">
         <div className="mx-auto flex w-full max-w-6xl flex-col gap-3 px-6 py-8 sm:flex-row sm:items-center sm:justify-between">
           <p className="text-xs text-muted-foreground">
-            © {new Date().getFullYear()} Our App. All rights reserved.
+            © {new Date().getFullYear()} Lord Naz. All rights reserved.
           </p>
           <div className="flex gap-4 text-xs text-muted-foreground">
             <Link className="hover:text-foreground transition" href="/terms">
@@ -332,4 +332,3 @@ function IconShield() {
     </svg>
   );
 }
-``
